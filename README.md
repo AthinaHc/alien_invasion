@@ -1,4 +1,4 @@
-# Project Name
+# Alien Invasion
 > Inspired by classic games with the main goal of shooting down aliens, 'Alien Invasion' is a Python game that brings the retro feeling back 👾
 
 
